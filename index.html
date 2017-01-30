@@ -6,88 +6,82 @@ css: "/css/index.css"
 meta-title: "Richard Decal - world traveller"
 meta-description: "World traveller with BA in Biochemistry."
 ---
+<div id="aboutme-section">
+	
+<p class="about-text">
+<span class="fa fa-person about-icon"></span>
+I'm a series of spacetime events called Ricardo (or Richard). I was born in Florida to Cuban and Argentine parents (español es mi lengua materna). I'm a high tech low-life, an outdoorsy great indoorsman; voice-activated, user-friendly, self-cleaning, and compostable. I'm a non-believer and an overachiever, laid-back but forward-thinking, a supercharged subversive, a hands-on footloose. I'm a relentless nerd and SJW.
+</p>
+
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+I have worked as a researcher at various universities &ndash; for a full list of peer-reviewed publications and projects, see my <strong><a href="/cv">CV page</a></strong>. I have many scientific interests: computational neuroscience, neural networks, cell biology, astronomy, cryptography, and more.
+</p>
+
+	
+<p class="about-text">
+<span class="fa fa-code about-icon"></span>
+My goal is to use <strong>artifical intelligence technology for social good</strong>. Specifically, I dream of making pedagocial chatbots. This lies right at the interface of my various passions: machine learning, education, and social justice.
+</p>
+  <p></p>
+
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+I've also worked a bunch of non-academic jobs. I was an artist and residence for Sir James Wallace of the Wallace Arts Trust. I'm also starting my own business (details to follow)!
+</p>
+<p class="about-text">
+<span class="fa fa-globe about-icon"></span>
+After graduating in 2011, I bought a 1-way ticket to China. I've spent 4 of the past 5 years hitchhiking, backpacking, and bicycling around the world-- been to 27 countries so far.Lessons learned: I'm really good at being frugal!
+</p>
+<p>  </p>
+
+<p>
+</p>
+
+<p></p>
 
 
-<div class="main-explain-area jumbotron">
-  <p>I'm a series of space-time events known to go by Richard, Ricardo, Rich (a misnomer), Dick*, and (in some circles) Rich Dick*.</p>
-
-<p>*lies</p>
-
-<p>I'm a high tech low-life, an outdoorsy great indoorsman, a warmhearted, hotwired, heat-seeking cool customer; voice-activated, user-friendly, self-cleaning, and compostable. I'm attractive, proactive, psychoactive, and from time to time I'm radioactive. A high-concept, low profile, farfetched, close-range ballistic missionary. I'm a non-believer and an overachiever, laid-back but forward-thinking, a supercharged subversive, hands on but footloose, straight-up down to earth.</p>
-
-<p>I have eclectic academic interests: computational neuroscience, cell biology, theoretical physics, cosmology. I devour essays about social justice and spend a lot of time thinking about how to subvert (or otherwise not participate in) systems of oppression.</p>
-
-<p>I have an honors degree in biochemistry and am co-author on a few peer-reviewed journal articles. At the moment, I'm switching tracks to computational neuroscience. I currently work as a NIH scientist at the University of Washington, where I make models that try to explain how mosquitos are capable of tracking turbulent plumes.</p>
   
-<p>I am a fairly accomplished world traveler, having backpacked, bicycled, and hitchhiked across dozens of countries. I make it happen by living very, very frugally.</p>
+
+
+
+
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+I'm addicted to <strong>travelling</strong> &ndash; I've been to 27 countries so far! I also love learning, teaching, sharing, and creating.
+</p>
+
+<p class="about-text">
+<span class="fa fa-file-text-o about-icon"></span>
+The <strong><a href="/projects">projects</a></strong> page is where I list some of my personal projects. For academic projects, <strong><a href="/cv">see here</a></strong>.
+</p>
+
+
+
+	
+	
 </div>
 
+<div id="contactme-section">
+<h1 id="contact">Contact</h1>
+  
+<p>You can <a href="mailto:decal@uw.edu?subject=Hello from richarddecal.com">email me</a> (GPG key E1B269BE). I love meeting new people so don't hesitate to send a message!</p>
 
-<center><h1>Writing</h1></center>
-<p>This is where I write about things unreleated to travel. For that, see my other website (Roving Richard, linked above).</p>
-
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
+<form action="https://formspree.io/richard.decal@gmail.com" method="POST" class="form" id="contact-form">
+  <p>You can also send me a quick message using the form below:</p>
+  <div class="row">
+    <div class="col-xs-6">
+      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
     </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
+    <div class="col-xs-6">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
     </div>
-    {% endif %}
+  </div>
+  <input type="hidden" name="_subject" value="New submission from richarddecal.com">
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
+  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+</form>
 
-   </article>
-  {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
