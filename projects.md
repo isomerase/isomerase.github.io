@@ -6,7 +6,7 @@ comments: true
 published: true
 ---
 
-This is a collection of some of my personal projects. For my academic work, please see [my CV](/cv). This is a placeholder-- it needs to be updated!
+This is a collection of some of my personal projects. For my academic work, please see **[my CV](/cv)**.
 
 
 ---
