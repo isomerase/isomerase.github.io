@@ -48,6 +48,7 @@ author:
   facebook: BrownianTravel  # eg. daattali
   github: crypdick    # eg. daattali
   twitter: yourname   # eg. daattali
+  flickr: richarddecal
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -65,6 +66,7 @@ footer-links-active:
   facebook: true
   email: true
   twitter: false
+  flickr: true
   google-plus: false
   github: true
   reddit: false
