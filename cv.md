@@ -2,10 +2,10 @@
 layout: page
 title: Curriculum Vitae
 published: true
-meta-title: "Richard Decal - CV - resume"
-meta-description: "Academic CV for Richard B. Decal"
+meta-title: Richard Decal - CV - resume
+meta-description: Academic CV for Richard B. Decal
 ---
-
+This is my academic CV. For personal projects, check out my **[projects page](/projects)**.
 
 <center>
 <div class="get-started-wrap">
@@ -32,7 +32,7 @@ Thesis: *Ebbs and Glows: Quantifying Small RNA Concentrations in C. elegans*
 "Analysis of neural subtypes reveals selective mitochondrial dysfunction in dopaminergic neurons from _Parkin_ mutants. [Download](https://www.researchgate.net/publication/225302391_Analysis_of_neural_subtypes_reveals_selective_mitochondrial_dysfunction_in_dopaminergic_neurons_from_parkin_mutants)
 
 
-"Destruction complex function in the Wnt-signalling pathway of _Drosophila_ requires multiple interactions between Adenomatous polposis coli 2 and Armadillo". [Download](link)
+"Destruction complex function in the Wnt-signalling pathway of _Drosophila_ requires multiple interactions between Adenomatous polposis coli 2 and Armadillo". [Download](https://www.researchgate.net/publication/51884043_Destruction_Complex_Function_in_the_Wnt_Signaling_Pathway_of_Drosophila_Requires_Multiple_Interactions_Between_Adenomatous_Polyposis_Coli_2_and_Armadillo)
 
 “Ebbs and Glows: Quantifying Small RNA Concentrations in _C. elegans_”. Undergraduate thesis. 
 
@@ -59,12 +59,12 @@ _[Kimberley Community Whale Research Project](https://kimberleycommunitywhaleres
 A community-initiated peer-review at the proposed site of the world’s second-largest liquefied gas processing port. Our peer-review’s estimates of humpback migration and breeding activity near James Price Point revealed gross discrepancies in the original oil conglomerate’s survey.
 
 ### Mitochondrial dysfunction in Parkinson's Disease
-_[Leo Pallanck](link) lab. [University of Washington](uw.edu), Dept. of Genome Sciences, Seattle, WA, USA - 2015 → 2016_
+_[Leo Pallanck](http://www.gs.washington.edu/faculty/pallanck.htm) lab. [University of Washington](uw.edu), Dept. of Genome Sciences, Seattle, WA, USA - 2015 → 2016_
 
 I helped establish a method to grow, stain, and image primary dopaminergic neural culture from Drosophila embryos in order to test whether Parkin and PINK1, proteins involved in Parkinson’s disease, are recruited to depolarized mitochondria in dopaminergic neurons. This research was published in PNAS.
 
 ### Quantifying endogenous sRNA concentrations in _C. elegans_
-_[Katherine Walstrom](link) lab. [New College of Florida](ncf.edu), Dept. of Natural Sciences, Sarasota, FL, USA - 2010 → 2011_
+_[Katherine Walstrom](https://www.ncf.edu/directory/listing/katherine-walstrom/) lab. [New College of Florida](ncf.edu), Dept. of Natural Sciences, Sarasota, FL, USA - 2010 → 2011_
 
 My thesis proposes a model for RNA Helicase A function in endogenous _C. elegans_ RNAi pathways.
 
@@ -76,6 +76,6 @@ My thesis proposes a model for RNA Helicase A function in endogenous _C. elegans
 - **Prison abolishion**
 - **Mass surveillance, cryptoactivism**
 - **Net neutrality**
-- **Wikipedia** - Contributor since 2008.
+- **Wikipedia** - Contributor since 2008. [User page](https://en.wikipedia.org/wiki/User:Richard.decal)
 - **Brain Awareness Week 2015**
 - **Upward Bound**
