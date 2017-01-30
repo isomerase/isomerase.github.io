@@ -9,7 +9,7 @@ This is my academic CV. For personal projects, check out my **[projects page](/p
 
 <center>
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/isomerase/Decal-LaTeX-CV/raw/master/RDecal%20CV.pdf">Download CV (pdf)</a>
+  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/crypdick/Decal-LaTeX-CV/raw/master/RDecal%20CV.pdf">Download CV (pdf)</a>
 </div>
 <br/>
 </center>
