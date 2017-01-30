@@ -2,6 +2,8 @@
 layout: page
 title: Curriculum Vitae
 published: true
+meta-title: "Richard Decal - CV - resume"
+meta-description: "Academic CV for Richard B. Decal"
 ---
 
 
