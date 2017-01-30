@@ -25,7 +25,7 @@ This is a collection of some of my personal projects. For my academic work, plea
 
 ## Computing
 
-- **[Home server]()** - I am proud of my home server. I run the following services: wallabag, owncloud, bittorrent.
+- **[Home server]()** - I am proud of my home server. I run the following services: wallabag, owncloud, bittorrent, ZeroNet, IPFS.
 - **[Mobile library]()** - I bought a raspberry pi and turned it into an awesome mobile filesharing mesh network.
 
 ## Volunteering, Activism, Organizing
