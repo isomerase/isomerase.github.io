@@ -3,6 +3,7 @@ layout: page
 title: Projects
 subtitle: What keeps me busy
 comments: true
+published: true
 ---
 
 This is a collection of some of my personal projects. For my academic work, please see [my CV](/cv).
@@ -10,19 +11,25 @@ This is a collection of some of my personal projects. For my academic work, plea
 
 ---
 
+## Travel
+
+- I am currently building my tiny home inside a retired news crew van.
+- I have been to 26 countries so far! I've done 3 major bicycle tours (from Seattle to San Francisco, around Taiwan, and around New Zealand).
+- I've hitchhiked over 10,000 miles.
+
 ## Talks and Interviews
 
--Talk for TA3M Seattle: "How  AI can be abused by surveillance states" ([presentation slides](https://docs.google.com/presentation/d/1lfn3T7R-ufjbzfmlVSMgAIyjC6hYhTTC41LMleQNFcQ/edit?usp=sharing))
--Interview with net neutrality
--Interview with [Edventure Project](http://edventureproject.com): [Why we pick up hitchhikers](http://edventureproject.com/why-we-pick-up-hitchhikers/)
-
-
-##
+- Talk for TA3M Seattle: "How  AI can be abused by surveillance states" ([presentation slides](https://docs.google.com/presentation/d/1lfn3T7R-ufjbzfmlVSMgAIyjC6hYhTTC41LMleQNFcQ/edit?usp=sharing))
+- Interview with KOMO news in Seattle over the net neutrality debate
+- Interview with [Edventure Project](http://edventureproject.com): [Why we pick up hitchhikers](http://edventureproject.com/why-we-pick-up-hitchhikers/)
 
 
 
-## Misc
 
 
-- **[Mobile library]()** - I bought a raspberry pi and turned it into an awesome
+
+## Computing
+
+- **[Home server]()** - I am proud of my home server. I run the following services: wallabag, owncloud, bittorrent.
+- **[Mobile library]()** - I bought a raspberry pi and turned it into an awesome mobile filesharing mesh network.
 ---
