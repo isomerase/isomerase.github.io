@@ -23,13 +23,12 @@ This is a collection of some of my personal projects. For my academic work, plea
 - Interview with KOMO news in Seattle over the net neutrality debate
 - Interview with [Edventure Project](http://edventureproject.com): [Why we pick up hitchhikers](http://edventureproject.com/why-we-pick-up-hitchhikers/)
 
-
-
-
-
-
 ## Computing
 
 - **[Home server]()** - I am proud of my home server. I run the following services: wallabag, owncloud, bittorrent.
 - **[Mobile library]()** - I bought a raspberry pi and turned it into an awesome mobile filesharing mesh network.
----
+
+## Volunteering, Activism, Organizing
+
+- I organized and led a protest against Congress's plans to end the Internet's decentralized nature. Downtown Seattle, December 2014.
+- I spent a month and a half volunteering on Mota Lava, Vanuatu. I was helping communities be more resilient by teaching them to make virgin coconut oil and facilitating business deals. I gave various lectures at the local school and helped get paint for the local church.
