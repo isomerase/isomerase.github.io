@@ -113,6 +113,16 @@
             </a>
           </li>
           {% endif %}
+      {% if site.author.flickr and site.footer-links-active.flickr %}
+          <li>
+            <a href="https://www.instagram.com//photos/{{ site.author.flickr }}" title="Flickr">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
       {% if site.author.youtube and site.footer-links-active.youtube %}
           <li>
             <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
