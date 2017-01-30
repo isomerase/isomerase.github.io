@@ -24,7 +24,7 @@ description: Professional globetrotter
 # List of links in the navigation bar
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  About: ""
   CV: "cv"
   Projects: "projects"
   Photography: "https://www.flickr.com/photos/richarddecal"
