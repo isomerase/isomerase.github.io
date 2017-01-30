@@ -22,8 +22,9 @@ description: Professional globetrotter
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+# List of links in the navigation bar
 navbar-links:
-  Home: "www.richarddecal.com"
+  Home: ""
   CV: "cv"
   Travel blog: "http://www.rovingrichard.com"
   Photography: "https://www.flickr.com/photos/richarddecal"
