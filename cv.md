@@ -10,11 +10,8 @@ These are my academic and work achievements. For personal projects, check out my
 <center>
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/crypdick/Decal-LaTeX-CV/raw/master/RDecal%20CV%20-%20AI%20engineer.pdf">Download AI Resume (pdf)</a>
+    <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/crypdick/Decal-LaTeX-CV/raw/master/RDecal%20CV.pdf">Download Academic CV (pdf)</a>
 </div>
-<div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/crypdick/Decal-LaTeX-CV/raw/master/RDecal%20CV.pdf">Download Academic CV (pdf)</a>
-</div>
-<br/>
 </center>
 
 
