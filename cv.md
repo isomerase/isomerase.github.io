@@ -5,11 +5,14 @@ published: true
 meta-title: Richard Decal - CV - resume
 meta-description: Academic CV for Richard B. Decal
 ---
-This is my academic CV. For personal projects, check out my **[projects page](/projects)**.
+These are my academic and work achievements. For personal projects, check out my **[projects page](/projects)**.
 
 <center>
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/crypdick/Decal-LaTeX-CV/raw/master/RDecal%20CV.pdf">Download CV (pdf)</a>
+  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/crypdick/Decal-LaTeX-CV/raw/master/RDecal%20CV%20-%20AI%20engineer.pdf">Download AI Resume (pdf)</a>
+</div>
+<div class="get-started-wrap">
+  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/crypdick/Decal-LaTeX-CV/raw/master/RDecal%20CV.pdf">Download Academic CV (pdf)</a>
 </div>
 <br/>
 </center>
