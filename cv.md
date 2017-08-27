@@ -23,6 +23,8 @@ completely ignored.
 
 ## Education
 
+### **Master's Data Science** - *New College of Florida*, Florida, USA - 2017 → Now
+
 ### **Machine Learning Engineer Nanodegree** - *Udacity* - 2017
 
 ### **B.A. Chemistry/Biology (honors)** - *New College of Florida*, Florida, USA - 2007 → 2011
