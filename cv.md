@@ -23,11 +23,11 @@ completely ignored.
 
 ## Education
 
-### **Master's Data Science** - *New College of Florida*, Florida, USA - 2017 → Now
+**Master's Data Science** - *New College of Florida*, Florida, USA - 2017 → Expected Dec. 2018
 
-### **Machine Learning Engineer Nanodegree** - *Udacity* - 2017
+**Machine Learning Engineer Nanodegree** - *Udacity* - 2017
 
-### **B.A. Chemistry/Biology (honors)** - *New College of Florida*, Florida, USA - 2007 → 2011
+**B.A. Chemistry/Biology (honors)** - *New College of Florida*, Florida, USA - 2007 → 2011
 Thesis: *Ebbs and Glows: Quantifying Small RNA Concentrations in C. elegans*
 
 
