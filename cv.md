@@ -47,6 +47,7 @@ Thesis: *Ebbs and Glows: Quantifying Small RNA Concentrations in C. elegans*
 
 ### Reinforcement Learning for Tracing Neuron Morphologies
 _[Hanchuan Peng](https://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/) lab. [Allen Institute for Brain Science](https://www.alleninstitute.org/what-we-do/brain-science/), Seattle, WA, USA - Summer 2018_
+
 I made a proof of concept showing that deep reinforcement learning can be used to automatically trace neuron morphologies.
 
 ### Mosquito thermal plume tracking
