@@ -23,6 +23,10 @@ This is a collection of some of my personal projects. For my academic work, plea
 - Interview with KOMO news in Seattle over the net neutrality debate
 - Interview with [Edventure Project](http://edventureproject.com): [Why we pick up hitchhikers](http://edventureproject.com/why-we-pick-up-hitchhikers/)
 
+## Art
+
+- I was Artist in Residence at the [Sir James Wallace Arts Trust](www.wallaceartstrust.org.nz) for a few months in 2015. A selection of my works are in circulation around public spaces in New Zealand.
+
 ## Computing
 
 - **Home server** - I am proud of my home server. I built it myself and run the following services: wallabag, owncloud, bittorrent, ZeroNet, IPFS, and Tor node.
