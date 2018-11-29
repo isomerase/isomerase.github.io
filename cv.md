@@ -58,7 +58,7 @@ I worked as a research assistant in Fairhall Lab. We're interested in answering 
 My current role in the project is creating models of mosquitoes tracking turbulent thermal plumes and benchmark those models against wind-tunnel behavioral data. In particular, I am creating driven, damped agent-based dynamical models which reproduce mosquito baseline flight and then test various strategies for plume navigation. These models will be further validated using electrophysiological and tethered flight data to test theories about multi-modal decision making.
 
 
-### Humpack Whale Census
+### Humpback Whale Census
 _[Kimberley Community Whale Research Project](https://kimberleycommunitywhaleresearch.wordpress.com/), Murdudun, Australia - 2012_
 
 A community-initiated peer-review at the proposed site of the world’s second-largest liquefied gas processing port. Our peer-review’s estimates of humpback migration and breeding activity near James Price Point revealed gross discrepancies in the original oil conglomerate’s survey.
